@@ -1,0 +1,6 @@
+Before changing file is :
+Donkey is an animal , someone said that Donkey looks very bad and ugly .
+
+After changing the file :
+###### is an animal , someone said that ###### looks very ### and #### .
+
